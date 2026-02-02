@@ -1,0 +1,38 @@
+{
+    "SDXL 1:1 (Square)": {
+        "txt2img_width": 1024,
+        "txt2img_height": 1024
+    },
+    "SDXL 3:2 (Standard)": {
+        "txt2img_width": 1216,
+        "txt2img_height": 832
+    },
+    "SDXL 4:3 (Landscape)": {
+        "txt2img_width": 1152,
+        "txt2img_height": 896
+    },
+    "SDXL 16:9 (Cinema)": {
+        "txt2img_width": 1344,
+        "txt2img_height": 768
+    },
+    "SDXL 21:9 (Wide)": {
+        "txt2img_width": 1536,
+        "txt2img_height": 640
+    },
+    "SDXL 2:3 (Portrait)": {
+        "txt2img_width": 832,
+        "txt2img_height": 1216
+    },
+    "SDXL 3:4 (Book)": {
+        "txt2img_width": 896,
+        "txt2img_height": 1152
+    },
+    "SDXL 9:16 (Story)": {
+        "txt2img_width": 768,
+        "txt2img_height": 1344
+    },
+    "SDXL 9:21 (SmartPhone)": {
+        "txt2img_width": 640,
+        "txt2img_height": 1536
+    }
+}
