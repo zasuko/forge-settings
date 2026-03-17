@@ -144,12 +144,14 @@
   - name: 髪の毛
     color: rgba(255, 123, 2, .4)
     tags:
-      white hair: 白髪
+      black hair: 黒髪
+      white hair: 白髪      
       silver hair: 銀髪
-      grey hair: 灰色の髪
+      grey hair: 灰色髪
       purple hair: 紫髪
       red hair: 赤髪
-      yellow hair: 黄色の髪
+      blue hair: 青髪
+      yellow hair: 黄髪
       green hair: 緑髪
       brown hair: 茶髪
       straight_hair: ストレートヘア
@@ -798,7 +800,7 @@
     tags:
       armor: アーマー（鎧）
       bikini_armor: ビキニアーマー
-      armor: フルアーマー
+      full_armor: フルアーマー
       plate_armor: プレートアーマー
       japanese_armor: 日本の鎧
       kusazuri: 草摺（くさずり）
@@ -2724,7 +2726,7 @@
       full moon: 満月
       sun: 太陽
       moon: 月
-      moon: 満月
+      full_moon: 満月
       stars: 星
       sky: 空
       universe: 宇宙
@@ -2799,7 +2801,7 @@
       lunar: 月の、月球の
       crescent: 三日月
       crescent_moon: 新月
-      moon: 満月
+      full_moon: 満月
       moonlight: 月光
       scarlet_moon: 緋色の月
       universe: 宇宙
@@ -3402,6 +3404,7 @@
     tags:
       front view: 正面視点
       from_side: 横から
+      dynamic_angle: ダイナミックな角度
       from_above: 上から↘
       from_below: 下から↗
       from_outside: 外から内へ
