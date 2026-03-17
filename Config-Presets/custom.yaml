@@ -798,7 +798,7 @@
     tags:
       armor: アーマー（鎧）
       bikini_armor: ビキニアーマー
-      full_armor: フルアーマー
+      armor: フルアーマー
       plate_armor: プレートアーマー
       japanese_armor: 日本の鎧
       kusazuri: 草摺（くさずり）
@@ -2724,7 +2724,7 @@
       full moon: 満月
       sun: 太陽
       moon: 月
-      full_moon: 満月
+      moon: 満月
       stars: 星
       sky: 空
       universe: 宇宙
@@ -2799,7 +2799,7 @@
       lunar: 月の、月球の
       crescent: 三日月
       crescent_moon: 新月
-      full_moon: 満月
+      moon: 満月
       moonlight: 月光
       scarlet_moon: 緋色の月
       universe: 宇宙
@@ -3354,7 +3354,7 @@
       wide_shot: ワイドショット
       medium_shot: 中景
       mid_shot: 中景
-      full_shot: 全身像
+      full_body: 全身像
       bust: バスト
       upper_body: 上半身
       lower_body: 下半身
